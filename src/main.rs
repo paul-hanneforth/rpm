@@ -33,6 +33,7 @@ fn print_usage() {
 
     println!("Usage: ");
     println!("rpm install [crate_name]");
+    println!("rpm list");
 
 }
 fn list() {
