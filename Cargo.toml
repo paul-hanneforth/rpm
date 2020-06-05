@@ -8,3 +8,4 @@ edition = "2018"
 
 [dependencies]
 crates_io_api = "0.5.1"
+toml = "0.5.6"
